@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Amit Kushwaha jdamit2027@gmail.com amit.k2027
 
 # THANKS
 
